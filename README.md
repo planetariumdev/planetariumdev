@@ -1,4 +1,4 @@
-<h3 align="center">Web full-stack developer based in Republic of Korea</h1>
+<h3 align="left">Web full-stack developer based in Republic of Korea</h1>
 <p align="center">모든 레포지토리는 비공개 상태입니다.</p>
 
 <h3 align="left">Languages and Tools:</h3>
